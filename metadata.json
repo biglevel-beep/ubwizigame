@@ -1,0 +1,6 @@
+{
+  "name": "Tuzamurane Tetero - Money Savings & Financial Goals",
+  "description": "Urubuga rwa Tuzamurane Tetero rwu bwizigame bwa amafaranga, gupanga intego, n'Inshuti y'AI mu Kinyarwanda n'Icyongereza.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
